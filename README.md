@@ -61,3 +61,8 @@ Nurburgring
 Spa-Francorchamps
 Monaco
 Cesears Palace Parking Lot
+- What track was used for the last race this year?
+Yas Marina
+RedBull Ring
+Monaco
+Zandvoort
