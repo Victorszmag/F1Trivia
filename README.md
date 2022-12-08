@@ -1,5 +1,5 @@
 # F1Trivia
-Idea is that I will have the into html page with title and instructions maybe leaderboard if i figure out how to do that. Then a second html for the trivia game itself. For the trivia game page I am looking to have questions, a timer, and the three wrong answers is a game over. I will try to use racing clock for the timer and the flags that go with racing as an indicator of wrong answers.
+Idea is that I will have the into html page with title and instructions maybe leaderboard if i figure out how to do that. Then a second html for the trivia game itself. For the trivia game page I am looking to have questions, and the three wrong answers is a game over. 
 
 - Who won the 2021 Drivers Championship?
 Max Verstappen
