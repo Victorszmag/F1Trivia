@@ -87,3 +87,43 @@ Seb
 Danny
 Max
 lando
+-Who holds the title of most F1 races won
+Ham
+Seb
+Lando
+Max
+-Which team goes by the name prancing horse
+brawn
+mclaren
+ferrari
+merc
+- old name of alpha tauri
+toro rosso
+brawn
+merc
+redbull
+-what circuit did pierre gastly get a first win
+monza
+ceasers
+mexico
+austin
+-redbull team principle
+horner
+toto
+mattia
+otmar
+-how many gears
+8
+2
+6
+1
+- what team did alonso get first two championships with?
+Renult
+merc
+redbull
+mclaren
+-which driver drove for Hass for 5 seasons
+roman
+lando
+alonso
+ham
