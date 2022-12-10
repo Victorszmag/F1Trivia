@@ -1,5 +1,5 @@
 # F1Trivia
-Idea is that I will have the into html page with title and instructions maybe leaderboard if i figure out how to do that. Then a second html for the trivia game itself. For the trivia game page I am looking to have questions, and the three wrong answers is a game over. 
+Idea is that I will have the into html page with title and instructions maybe leaderboard if i figure out how to do that. Then a second html for the trivia game itself. For the trivia game page I am looking to have questions, 7 or more is
 
 - Who won the 2021 Drivers Championship?
 Max Verstappen
@@ -67,3 +67,23 @@ RedBull Ring
 Monaco
 Zandvoort
 That should be enough
+- Who won the Second place this year?
+lando
+lewis
+max
+charles
+-which driver from mclaren will be replaced next year
+danny ric
+lando
+max
+charles
+-who won monza?
+Danny ric
+charles
+max
+lando
+-Which driver has the longest streak of wins
+Seb
+Danny
+Max
+lando
