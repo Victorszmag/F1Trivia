@@ -1,5 +1,8 @@
 # F1Trivia
-Idea is that I will have the into html page with title and instructions maybe leaderboard if i figure out how to do that. Then a second html for the trivia game itself. For the trivia game page I am looking to have questions, 7 or more is
+Idea is that I will have the intro html page with title and instructions maybe leaderboard if i figure out how to do that. Then a second html for the trivia game itself. For the trivia game page I am looking to have questions seclected from a array, and you have to answer them correctly to get the points. The points will get you gold,silver,bronze. I also wanted to create a checker for the answers inbetween questions with the live score and questions on the game page before the final results. Also an error message for when an answer isnt selected.
+
+I had the most problems on the modal, I had forgoten how to do it over the break so I had to get a refresher and relearn how to do it. So I made two one for when you dont click an answer and one when you complete the game with all the info.
+Two things that I could do to improve the game is add a time element like a countdown clock for each answer maybe one where the time has a half-life for each answer and the the time to answer gets faster and faster. I am unsure how that would work with the current radio buttons I have on the options because I like the fact that they show you if you got the answer correct or not and there is a time delay on those for 2 secs. The second upgrade would be a to add a section to results modal where you can type in your name and save it to the highscores page.
 
 - Who won the 2021 Drivers Championship?
 Max Verstappen

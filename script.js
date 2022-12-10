@@ -267,7 +267,7 @@ const questions = [
 	const currentQuestion = shuffleQuestions[indexNumber] //gets current Question 
 	const currentQuestionAnswer = currentQuestion.correctOption //gets current Question's answer
 	const options = document.getElementsByName("option"); //gets all elements in dom with name of 'option' (in this the radio inputs)
-	let correctOption = null
+	
   
 	options.forEach((option) => {
 		if (option.value === currentQuestionAnswer) {
@@ -276,7 +276,7 @@ const questions = [
 		}
 	})
   
-	//checking to make sure a radio input/ button answer has been checked because if it was not then the model will pop open
+	//checking to make sure a radio input/ button answer has been checked because if it was not then the modal will pop open
 	if (options[0].checked === false && options[1].checked === false && options[2].checked === false && options[3].checked == false) {
 		document.getElementById('option-modal').style.display = "flex"
 	}
