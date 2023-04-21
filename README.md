@@ -1,9 +1,20 @@
-# F1Trivia
-Idea is that I will have the intro html page with title and instructions maybe leaderboard if i figure out how to do that. Then a second html for the trivia game itself. For the trivia game page I am looking to have questions seclected from a array, and you have to answer them correctly to get the points. The points will get you gold,silver,bronze. I also wanted to create a checker for the answers inbetween questions with the live score and questions on the game page before the final results. Also an error message for when an answer isnt selected.
+Trivia Formula One Game
+https://victorszmag.github.io/F1Trivia/index.html
+Welcome to the Trivia Formula One Game! This is a simple game where you will be asked a series of questions related to Formula One and you will have to choose the correct answer from four choices. The more questions you answer correctly, the more points you will earn.
 
-I had the most problems on the modal, I had forgoten how to do it over the break so I had to get a refresher and relearn how to do it. So I made two one for when you dont click an answer and one when you complete the game with all the info.
-Two things that I could do to improve the game is add a time element like a countdown clock for each answer maybe one where the time has a half-life for each answer and the the time to answer gets faster and faster. I am unsure how that would work with the current radio buttons I have on the options because I like the fact that they show you if you got the answer correct or not and there is a time delay on those for 2 secs. The second upgrade would be a to add a section to results modal where you can type in your name and save it to the highscores page.
+Game Rules
+In this game, you must get 8 or more questions right to earn a gold medal. If you get 7 to 5 questions right, you will earn a silver medal. Anything below 5 correct answers will earn you a bronze medal.
 
+How to Play
+To start playing, simply launch the game and select the "Lights Out And Away We Go" button. You will be presented with a series of multiple-choice questions related to Formula One. Each question will have four possible answers, and you will have to choose the correct one.
+
+After answering each question, the game will display whether your answer was correct or incorrect. If your answer was correct, you will earn points based on the difficulty of the question. If your answer was incorrect, you will not earn any points.
+
+At the end of the game, your score will be calculated based on the number of correct answers you provided. The score will then be used to determine which medal you earned.
+
+Conclusion
+Thank you for playing the Trivia Formula One Game. We hope you enjoyed playing and learned something new about Formula One. If you have any feedback or suggestions for improvement, please do not hesitate to contact us.
+The Questions?
 - Who won the 2021 Drivers Championship?
 Max Verstappen
 Lewis Hamilton
